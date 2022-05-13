@@ -7,4 +7,5 @@ body{
     color:aqua;
     text-align: end;
     text-decoration: double;
+    column-width: 12mm;
 }
