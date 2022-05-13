@@ -14,5 +14,6 @@ body{
     text-decoration: dotted;
     display: block;
     column-width: 10mm;
+    column-rule: 122mm;
 
 }
